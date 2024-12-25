@@ -1,0 +1,35 @@
+### OverTheWire Bandit Game - Level 0
+
+## The Goal
+The challenge asks you to connect to the Bandit server and find the password for the next level.
+
+## My Solution
+```bash
+# Step 1: SSH into the Bandit server as user 'bandit0' on port 2220
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+# Takeaway: The `ssh` command is essential for securely connecting to remote systems. In real-world DevOps and SysAdmin, SSH is frequently used to manage servers and perform tasks remotely.
+
+# Step 2: List files in the current directory to see what is available
+ls
+
+# Takeaway: The `ls` command is used to list the contents of the current directory. It's one of the most basic commands for exploring the file system in Linux environments.
+
+# Step 3: The `readme` file is listed, so let's display its contents
+cat readme
+
+# Takeaway: The `cat` command is used to display the contents of a file. In real-world usage, it’s helpful for reading configuration files, log files, and documentation.
+
+# Step 4: The content of the file contains the password for the next level:
+#    "The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If"
+# Takeaway: This step teaches how to locate information hidden in files. This is common when finding credentials or configuration details on a system.
+
+# Step 5: Exit the session once we have retrieved the password
+exit
+
+# Takeaway: Exiting a session cleanly (`exit`) is a good practice to ensure that the connection is closed properly. This is important for security, especially when working with remote systems.
+
+# Final Takeaways:
+# - Basic Linux Commands: `ls` and `cat` are fundamental tools for navigating and reading files in Linux. Mastering these commands is critical for anyone working in system administration or DevOps.
+# - SSH Usage: SSH is essential for managing servers securely over a network. In the real world, it’s used to access remote systems, configure servers, or deploy software.
+# - Finding Sensitive Information: The challenge emphasizes the importance of being able to find and retrieve sensitive information from files in a secure way. This skill is crucial for cybersecurity and DevOps.
