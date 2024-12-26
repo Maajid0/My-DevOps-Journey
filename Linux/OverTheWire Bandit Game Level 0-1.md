@@ -1,7 +1,7 @@
-# OverTheWire Bandit - Level 0 to Level 1 Solution 🎮🔐
+# OverTheWire Bandit - Level 1 to Level 2 Solution 🎮🔐
 
 ## The Goal 🎯:
-The challenge requires you to move from **Level 0** to **Level 1** by accessing the password for the next level. You will need to use the password obtained from Level 0 to log into Level 1.
+The challenge requires you to move from **Level 1** to **Level 2** by accessing the password for the next level. You will need to use the password obtained from Level 0 to log into Level 1.
 
 ---
 
