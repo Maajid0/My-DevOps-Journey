@@ -1,7 +1,7 @@
-# OverTheWire Bandit - Level 3 to Level 4 Solution 🎮🔐
+# OverTheWire Bandit - Level 4 to Level 5 Solution 🎮🔐
 
 ## The Goal 🎯:
-The challenge requires you to move from **Level 3** to **Level 4** by accessing the password for the next level. You’ll need to explore files and use the `man` page to check details about the `file` command. One of the files will contain the password for the next level.
+The challenge requires you to move from **Level 4** to **Level 5** by accessing the password for the next level. You’ll need to explore files and use the `man` page to check details about the `file` command. One of the files will contain the password for the next level.
 
 ---
 
@@ -94,7 +94,7 @@ cat ./-file07
 ```
 
 ## Step 8: Exit the session once done 🛑
-After retrieving the password for Level 4, log out of the SSH session by typing:
+After retrieving the password for Level 5, log out of the SSH session by typing:
 
 ```bash
 exit
