@@ -3,6 +3,8 @@
 ## The Goal 🎯:
 The challenge asks you to access the password for the next level, which is stored in a file named `readme` on the remote server. You are provided with login credentials for the `bandit0` user.
 
+---
+
 ## My Solution 💻:
 
 ### Step 1: Connect to the remote server 🌐
