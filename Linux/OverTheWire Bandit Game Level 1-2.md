@@ -58,5 +58,6 @@ exit
 2. Handling Filenames with Spaces 📝: When dealing with filenames that contain spaces, always enclose the filename in quotes. This is a common challenge in shell scripting and file management on Unix-like systems.
 
 3. Working with Files via `cat` 🖥️: The `cat` command is simple yet powerful for reading file contents. It’s commonly used to quickly view small files, configuration files, or passwords in Linux environments.
+
 By completing this level transition, you're further developing your command-line skills, which are vital for both security challenges and real-world system management. 🚀
 
