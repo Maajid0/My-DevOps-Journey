@@ -60,6 +60,7 @@ exit
 2. File Interaction via Redirection 🔄: In Linux, redirection (`<`) is a powerful tool that allows you to pass the contents of a file to another command. This is useful in many scenarios, including when you need to interact with files in ways other than just printing them to the screen with `cat`.
 
 3. Efficient Navigation 🧭: While simple, commands like `ls` and `cat` form the backbone of Linux file navigation. Being comfortable with these commands is essential for both security exercises and daily Linux administration tasks.
+
 By completing this level transition, you're continuing to build your command-line and Linux-based navigation skills, which are critical for more advanced challenges in the game and real-world applications. 🚀
 
 
