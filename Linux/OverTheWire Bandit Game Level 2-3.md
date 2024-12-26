@@ -1,7 +1,7 @@
-# OverTheWire Bandit - Level 1 to Level 2 Solution 🎮🔐
+# OverTheWire Bandit - Level 2 to Level 3 Solution 🎮🔐
 
 ## The Goal 🎯:
-The challenge requires you to move from **Level 1** to **Level 2** by accessing the password for the next level. The password is found in a file, and the file's name contains spaces, which you need to handle carefully. You will need to use the password obtained from Level 1 to log into Level 2.
+The challenge requires you to move from **Level 2** to **Level 3** by accessing the password for the next level. The password is found in a file, and the file's name contains spaces, which you need to handle carefully. You will need to use the password obtained from Level 1 to log into Level 2.
 
 ---
 
