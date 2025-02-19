@@ -104,15 +104,15 @@ I logged into my Cloudflare account again and navigated to the DNS section.
 
 ## Conclusion 🎉
 
-1. I successfully purchased the domain maajid.co.uk from Cloudflare 🛒.
+1. I successfully purchased the domain `maajid.co.uk` from Cloudflare 🛒.
 
 2. I launched an EC2 instance with Ubuntu and installed NGINX 🖥️.
 
-3. I configured the Security Group to allow HTTP (port 80) traffic 🔐.
+3. I configured the Security Group to allow HTTP (`port 80`) traffic 🔐.
 
 4. I added an A record in Cloudflare pointing to the public IP address of my EC2 instance 🗂️.
 
-5. I can now access the NGINX welcome page via nginx.maajid.co.uk in my browser 🌍.
+5. I can now access the NGINX welcome page via `nginx.maajid.co.uk` in my browser 🌍.
 
 ---
 
