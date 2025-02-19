@@ -33,9 +33,9 @@
 
 1. Once the EC2 instance was running, I connected to it using SSH from my terminal:
    
-   ```bash
-   ssh -i /path/to/your-key.pem ubuntu@<your-ec2-public-ip>
-   ```
+```bash
+ssh -i /path/to/your-key.pem ubuntu@<your-ec2-public-ip>
+```
 
 ### Step 3: Install NGINX 🖥️
 
@@ -66,7 +66,7 @@ sudo systemctl enable nginx
 
 ### Verify NGINX 🔍
 
-I opened my browser and entered the public IP address of my EC2 instance (e.g., http://<your EC2 public IP>).
+I opened my browser and entered the public IP address of my EC2 instance (e.g., `http://<your-ec2-public-ip>`).
 
 I saw the default NGINX welcome page, confirming that everything was set up correctly.
 
